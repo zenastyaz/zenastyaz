@@ -9,8 +9,8 @@
 
 <h5 align="center" class="heading-element" dir="auto">
   <code><a href="https://www.linkedin.com/in/anastasia-zhartun" style="color: #284D48FF;"title="LinkedIn Profile" rel="nofollow"><img width="22" src="https://raw.githubusercontent.com/zenastyaz/an_/2cd7e3f873438b08943b34aed3302f7b8a14abaa/logo/linkedin-icon.svg"/> LinkedIn</a></code>
-  <code><a href="https://zhartyn.nastya@gmail.com" title="HackerRank Profile" rel="nofollow"><img width="22" src="https://raw.githubusercontent.com/zenastyaz/an_/2436ad9f2597f1c58f9fba7c6d93a46f68818299/logo/gmail.svg" style="max-width: 100%;"> Gmail</a></code>
-  <code><a href="" title="Stack Overflow Profile" rel="nofollow"><img width="22" src="https://raw.githubusercontent.com/zenastyaz/an_/6c2b996e894f44ce14f5d044d193a3a98b96a60d/logo/13050645.svg" style="max-width: 100%;"> Site</a></code>
+  <code><a href="mailto:zhartyn.nastya@gmail.com" title="Gmail" rel="nofollow"><img width="22" src="https://raw.githubusercontent.com/zenastyaz/an_/2436ad9f2597f1c58f9fba7c6d93a46f68818299/logo/gmail.svg" style="max-width: 100%;"> Gmail</a></code>
+  <code><a href="" title="Site Profile" rel="nofollow"><img width="22" src="https://raw.githubusercontent.com/zenastyaz/an_/6c2b996e894f44ce14f5d044d193a3a98b96a60d/logo/13050645.svg" style="max-width: 100%;"> Site</a></code>
 </h5>
 <br>
 
